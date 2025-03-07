@@ -1,5 +1,5 @@
 # 42_irc
-42_cub3d est un projet de groupe de l'école 42 dans lequel nous devons créer notre propre serveur IRC, suivant les normes Internet RFC.  
+42_irc est un projet de groupe de l'école 42 dans lequel nous devons créer notre propre serveur IRC, suivant les normes Internet RFC.  
 Ce projet a été réalisé avec [@ThibautCharpentier](https://github.com/ThibautCharpentier)
 
 ## 📋 Règles
